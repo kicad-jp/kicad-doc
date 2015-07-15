@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Pcbnew\n"
 "POT-Creation-Date: 2015-07-14 23:01+0900\n"
-"PO-Revision-Date: 2015-07-13 22:18+0900\n"
-"Last-Translator: starfort <starfort@nifty.com>\n"
+"PO-Revision-Date: 2015-07-16 00:07+0900\n"
+"Last-Translator: kinichiro <kinichiro.inoguchi@gmail.com>\n"
 "Language-Team: kicad.jp <kicad@kicad.jp>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.2\n"
+"X-Generator: Poedit 1.5.7\n"
 
 # PR1:07102015 proofreading - chapter1, 2
 # PR2:07122015 proofreading - chapter3
@@ -1870,8 +1870,8 @@ msgstr ""
 #: Pcbnew_schematics.adoc:106
 msgid "Activate footprint mode (image:images/icons/mode_module.png[])"
 msgstr ""
-"フットプリントモードをアクティブにします (image:images/icons/mode_module."
-"png[])"
+"フットプリントモードをアクティブにします (image:images/icons/mode_module.png"
+"[])"
 
 #. type: Plain text
 #: Pcbnew_schematics.adoc:109
@@ -2671,7 +2671,7 @@ msgstr "可能な値で最大のものを使用し、ここで与えた最小サ
 
 #. type: delimited block |
 #: Pcbnew_routing.adoc:148
-#, fuzzy, no-wrap
+#, no-wrap
 #| msgid ""
 #| "| Units | CLASS 1 | CLASS 2 | CLASS 3 | CLASS 4 | CLASS 5\n"
 #| "| mm | 0.8 | 0.5 | 0.4 | 0.25 | 0.15\n"
@@ -2682,8 +2682,8 @@ msgid ""
 "| mils | 31 | 20 | 16 | 10 | 6\n"
 msgstr ""
 "| Units | CLASS 1 | CLASS 2 | CLASS 3 | CLASS 4 | CLASS 5\n"
-"| mm | 0.8 | 0.5 | 0.4 | 0.25 | 0.15\n"
-"| mils | 31 | 20 | 16 | 10 | 6\n"
+"| mm | 0.8 | 0.5 | 0.4 | 0.25 | 0.15\n"
+"| mils | 31 | 20 | 16 | 10 | 6\n"
 
 #. type: Title ^
 #: Pcbnew_routing.adoc:151
@@ -2693,7 +2693,7 @@ msgstr "絶縁(クリアランス)"
 
 #. type: delimited block |
 #: Pcbnew_routing.adoc:158
-#, fuzzy, no-wrap
+#, no-wrap
 #| msgid ""
 #| "| Units | CLASS 1 | CLASS 2 | CLASS 3 | CLASS 4 | CLASS 5\n"
 #| "| mm | 0.7 | 0.5 | 0.35 | 0.23 | 0.15\n"
@@ -2704,8 +2704,8 @@ msgid ""
 "| mils | 27 | 20 | 14 | 9 | 6\n"
 msgstr ""
 "| Units | CLASS 1 | CLASS 2 | CLASS 3 | CLASS 4 | CLASS 5\n"
-"| mm | 0.7 | 0.5 | 0.35 | 0.23 | 0.15\n"
-"| mils | 27 | 20 | 14 | 9 | 6\n"
+"| mm | 0.7 | 0.5 | 0.35 | 0.23 | 0.15\n"
+"| mils | 27 | 20 | 14 | 9 | 6\n"
 
 #. type: Plain text
 #: Pcbnew_routing.adoc:162
@@ -3328,7 +3328,6 @@ msgstr "原点座標の設定"
 
 #. type: Plain text
 #: Pcbnew_fabrication_files.adoc:48
-#, fuzzy
 #| msgid ""
 #| "Set the coordinates origin for the photo plot and drill files, one must "
 #| "place the auxiliary axis on this origin. Activate the icon image:images/"
@@ -4050,8 +4049,8 @@ msgid ""
 "Directly, via the icon image:images/icons/module_editor.png[] in the main "
 "toolbar of Pcbnew."
 msgstr ""
-"直接、Pcbnewのメインツールバーのアイコン image:images/icons/module_editor."
-"png[] による。"
+"直接、Pcbnewのメインツールバーのアイコン image:images/icons/module_editor.png"
+"[] による。"
 
 #. type: Plain text
 #: Pcbnew_managing_libs.adoc:44
@@ -4337,10 +4336,10 @@ msgstr "アクティブなライブラリへのフットプリントの保存"
 #: Pcbnew_managing_libs.adoc:167
 msgid ""
 "The action of saving a module (thereby modifying the file of the active "
-"library) is performed using this button image:images/icons/save_library."
-"png[]. If a module of the same name already exists, it will be replaced. "
-"Since you will depend upon the accuracy of the library modules, it is worth "
-"double-checking the module before saving."
+"library) is performed using this button image:images/icons/save_library.png"
+"[]. If a module of the same name already exists, it will be replaced. Since "
+"you will depend upon the accuracy of the library modules, it is worth double-"
+"checking the module before saving."
 msgstr ""
 "フットプリントの保存(アクティブなライブラリのファイルの変更)動作は、 image:"
 "images/icons/save_library.png[] ボタンを使用して実行します。同じ名前のフット"
@@ -4381,8 +4380,8 @@ msgstr ""
 #. type: Plain text
 #: Pcbnew_managing_libs.adoc:180
 msgid ""
-"Select the destination library via the button image:images/icons/library."
-"png[]."
+"Select the destination library via the button image:images/icons/library.png"
+"[]."
 msgstr ""
 "ボタン image:images/icons/library.png[] で移動先ライブラリを選択します。"
 
@@ -4630,14 +4629,12 @@ msgstr "作業レイヤのセットアップ"
 
 #. type: Plain text
 #: Pcbnew_layers.adoc:6
-#, fuzzy
 #| msgid "Pcbnew can work on 29 different layers:"
 msgid "Pcbnew can work on 50 different layers:"
 msgstr "Pcbnew は５０の異なるレイヤで作業することが可能です:"
 
 #. type: Plain text
 #: Pcbnew_layers.adoc:8
-#, fuzzy
 #| msgid "16 layers of copper (or of routing of tracks)"
 msgid "32 copper layers. (or of routing of tracks)"
 msgstr "３２の導体（または配線）レイヤ"
@@ -4645,14 +4642,13 @@ msgstr "３２の導体（または配線）レイヤ"
 #. type: Plain text
 #: Pcbnew_layers.adoc:9
 msgid "14 technical layers. (include 1 board outlines layer)"
-msgstr ""
+msgstr "１４のテクニカルレイヤ（１つの基板外形レイヤを含む）"
 
 #. type: Plain text
 #: Pcbnew_layers.adoc:10
-#, fuzzy
 #| msgid "12 auxiliary technical layers."
 msgid "4 auxiliary layers."
-msgstr "１４のテクニカルレイヤ（１つの基板外形レイヤを含む）"
+msgstr "４の予備レイヤ"
 
 #. type: Plain text
 #: Pcbnew_layers.adoc:13
@@ -4901,7 +4897,6 @@ msgstr "(マウスの右ボタンで開く)ポップアップウィンドウ使�
 
 #. type: Plain text
 #: Pcbnew_layers.adoc:103
-#, fuzzy
 #| msgid "Using the + and – keys (works on copper layers only)."
 msgid "Using the + and - keys (works on copper layers only)."
 msgstr "+ と - キーを使用する(導体レイヤ上のみで動作)。"
@@ -5618,7 +5613,7 @@ msgid ""
 "value, when entering a new value."
 msgstr ""
 "寸法値を表示するのに使用できる単位はインチと mm です。使用する単位は、左側"
-"ツールバーにあるアイコン image:images/Inch mm combo icon.png[] を押して選択で"
+"ツールバーにあるアイコン image:images/Inch_mm_combo_icon.png[] を押して選択で"
 "きます。新しい値を入力する際には、値の単位も入力できます。"
 
 #. type: Plain text
@@ -6536,13 +6531,13 @@ msgstr ""
 #. type: Plain text
 #: Pcbnew_editing_tools.adoc:26
 msgid ""
-"image:images/icons/duplicate_pad.png[] image:images/icons/duplicate_line."
-"png[] image:images/icons/duplicate_text.png[] image:images/icons/"
+"image:images/icons/duplicate_pad.png[] image:images/icons/duplicate_line.png"
+"[] image:images/icons/duplicate_text.png[] image:images/icons/"
 "duplicate_module.png[] image:images/icons/duplicate_target.png[] image:"
 "images/icons/duplicate_zone.png[]"
 msgstr ""
-"image:images/icons/duplicate_pad.png[] image:images/icons/duplicate_line."
-"png[] image:images/icons/duplicate_text.png[] image:images/icons/"
+"image:images/icons/duplicate_pad.png[] image:images/icons/duplicate_line.png"
+"[] image:images/icons/duplicate_text.png[] image:images/icons/"
 "duplicate_module.png[] image:images/icons/duplicate_target.png[] image:"
 "images/icons/duplicate_zone.png[]"
 
@@ -7024,8 +7019,8 @@ msgid ""
 msgstr ""
 "フットプリントを移動中、配置を補助するためにフットプリントのラッツネスト(ネッ"
 "ト状の結線)を表示させることが可能\n"
-"です。これを有効にするには、左ツールバーの image:images/icons/modratsnest."
-"png[] アイコンをアクティブにしなければなりません。"
+"です。これを有効にするには、左ツールバーの image:images/icons/modratsnest.png"
+"[] アイコンをアクティブにしなければなりません。"
 
 #. type: Title ~
 #: Pcbnew_module_placement.adoc:14
@@ -7137,7 +7132,6 @@ msgstr ""
 
 #. type: Plain text
 #: Pcbnew_module_placement.adoc:59
-#, fuzzy
 #| msgid ""
 #| "Select the option “Module Mode” (Icon image:images/icons/mode_module.png "
 #| "on the upper toolbar)."
@@ -7145,7 +7139,8 @@ msgid ""
 "Select the option \"Module Mode\" (Icon image:images/icons/mode_module.png[] "
 "on the upper toolbar)."
 msgstr ""
-"\"フットプリントモード\" オプション(上部ツールバーのアイコン)を選択します。"
+"\"フットプリントモード\" オプション(上部ツールバーのアイコン image:images/"
+"icons/mode_module.png[] )を選択します。"
 
 #. type: Plain text
 #: Pcbnew_module_placement.adoc:60
@@ -7292,7 +7287,6 @@ msgstr ""
 
 #. type: Plain text
 #: Pcbnew_module_placement.adoc:117
-#, fuzzy
 #| msgid ""
 #| "Having completed any manual placement these modules must be \"Fixed\" to "
 #| "prevent them being moved. With the Module Mode icon image:images/icons/"
@@ -7308,8 +7302,9 @@ msgid ""
 msgstr ""
 "すべての手動配置が完了したら、これらのフットプリントを動かされないように \"固"
 "定\" する必要があります。フットプリントを右クリックしてフットプリントモードア"
-"イコンを選択し、ポップアップメニューの\"フットプリントの “固定\" を選択しま"
-"す。これは編集/フットプリントポップアップメニューで行うことも可能です。"
+"イコン image:images/icons/mode_module.png[] を選択し、ポップアップメニューの"
+"\"フットプリントの “固定\" を選択します。これは編集/フットプリントポップアッ"
+"プメニューで行うことも可能です。"
 
 #. type: Plain text
 #: Pcbnew_module_placement.adoc:120
@@ -7605,7 +7600,6 @@ msgstr "Pcbnew は 1/10000 インチの内部分解能を持っています。"
 # 07102015：変更
 #. type: Plain text
 #: Pcbnew_introduction.adoc:65
-#, fuzzy
 #| msgid ""
 #| "Pcbnew works on 16 layers of copper, plus 12 technical layers (silk "
 #| "screen, solder mask, component adhesive, solder paste, drawings and "
@@ -8224,8 +8218,8 @@ msgstr ""
 #: Pcbnew_creating_editing_modules.adoc:201
 msgid ""
 "Load the similar module (image:images/icons/load_module_lib.png[], image:"
-"images/icons/load_module_board.png[] or image:images/icons/import_module."
-"png[])."
+"images/icons/load_module_board.png[] or image:images/icons/import_module.png"
+"[])."
 msgstr ""
 "似たようなフットプリントを読み込む(image:images/icons/load_module_lib.png[], "
 "image:images/icons/load_module_board.png[] または image:images/icons/"
@@ -9472,8 +9466,8 @@ msgid ""
 "GitHub repository maintainer, you can help update the GitHub copy.  Simply "
 "email the individual `*.kicad_mod` files you find in your COW directories to "
 "the maintainer of the GitHub repository.  After you've received confirmation "
-"that your changes have been committed, you can safely delete your COW "
-"file(s)  and the updated footprint from the read only part of GitHub library "
+"that your changes have been committed, you can safely delete your COW file"
+"(s)  and the updated footprint from the read only part of GitHub library "
 "will flow down.  Your goal should be to keep the COW file set as small as "
 "possible by contributing frequently to the shared master copies at https://"
 "github.com."
