@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Eeschema-ja\n"
 "POT-Creation-Date: 2016-05-31 01:27+0200\n"
-"PO-Revision-Date: 2016-08-22 08:50+0900\n"
+"PO-Revision-Date: 2016-08-22 15:15+0900\n"
 "Last-Translator: starfort-jp <starfort@nifty.com>\n"
 "Language-Team: kicad.jp <kicad@kicad.jp>\n"
 "Language: ja\n"
@@ -10499,7 +10499,7 @@ msgstr "| 印刷 | 印刷メニューにアクセスする（ <<plot-and-print,�
 #: eeschema_main_top_menu.adoc:32
 #, no-wrap
 msgid "|Plot |Export to PDF, PostScript, HPGL or SVG format (See chapter <<plot-and-print,Plot and Print>>).\n"
-msgstr "| プロット | Postscript HPGL あるいは SVG フォーマットで出図 (Export) する（ <<plot-and-print,プロットと印刷>> の章を参照）。\n"
+msgstr "| プロット | PDF, Postscript, HPGL あるいは SVG フォーマットで出図 (Export) する（ <<plot-and-print,プロットと印刷>> の章を参照）。\n"
 
 #. type: delimited block |
 #: eeschema_main_top_menu.adoc:34
