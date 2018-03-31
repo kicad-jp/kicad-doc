@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KiCad-ja\n"
 "POT-Creation-Date: 2018-03-28 22:24+0900\n"
-"PO-Revision-Date: 2018-03-31 11:47+0900\n"
+"PO-Revision-Date: 2018-03-31 20:12+0900\n"
 "Last-Translator: asukiaaa <asukiaaa@gmail.com>\n"
 "Language-Team: kicad.jp <kicad@kicad.jp>\n"
 "Language: ja\n"
@@ -409,8 +409,8 @@ msgid ""
 "Hardware accelerated renderer in Pcbnew and Gerbview requires video card "
 "with support of OpenGL v2.1 or higher."
 msgstr ""
-"Pcbnew と Gerbview はハードウェアを利用して描画を高速化しているため、 OpenGL "
-"v2.1 以上をサポートするビデオカードが必要です。"
+"Pcbnew と Gerbview はハードウェアで加速されたレンダラを利用しているため、 "
+"OpenGL v2.1 以上をサポートするビデオカードが必要です。"
 
 #. type: Title ===
 #: kicad.adoc:163
@@ -428,7 +428,9 @@ msgid ""
 msgstr ""
 "kicad/template にある *kicad.pro* がデフォルト設定ファイルです。 このファイル"
 "は新規プロジェクトのテンプレートとして提供され、Eeschemaがロードするライブラ"
-"リ・ファイルのリストを設定するために使用されます。"
+"リ・ファイルのリストを設定するために使用されます。 Pcbnew に関する他のパラ"
+"メータ（デフォルトのテキストサイズ、デフォルトの伝送線路の太さ、など）もここ"
+"に保持されます。"
 
 #. type: Plain text
 #: kicad.adoc:174
@@ -959,7 +961,7 @@ msgid ""
 "Double-clicking on the schematic file runs the schematic editor, in this "
 "case opening the file *pic_programmer.sch*."
 msgstr ""
-"Eeschema アイコンをダブル・クリックすると回路図エディタが起動し、この例では "
+"回路図ファイルをダブル・クリックすると回路図エディタが起動し、この例では "
 "*pic_programmer.sch* というファイルを開きます。"
 
 #. type: Plain text
@@ -968,8 +970,8 @@ msgid ""
 "Double-clicking on the board file runs the layout editor, in this case "
 "opening the file *pic_programmer.kicad_pcb*."
 msgstr ""
-"Pcbnew アイコンをダブル・クリックするとプリント基板エディタが起動し、この例で"
-"は *pic_programmer.kicad_pcb* というファイルを開きます。"
+"基板ファイルをダブル・クリックするとプリント基板エディタが起動し、この例では "
+"*pic_programmer.kicad_pcb* というファイルを開きます。"
 
 #. type: Plain text
 #: kicad.adoc:375
