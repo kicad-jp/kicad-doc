@@ -5988,14 +5988,14 @@ msgstr ""
 #, fuzzy, no-wrap
 #| msgid "Symbol library"
 msgid "Manage Symbol Library Tables"
-msgstr "シンボルライブラリ"
+msgstr "シンボルライブラリテーブルの管理"
 
 #. type: Named 'alt' AttributeList argument for macro 'image'
 #: eeschema_main_top_menu.adoc:55
 #, fuzzy, no-wrap
 #| msgid "Symbol library"
 msgid "Symbol Library Tables"
-msgstr "シンボルライブラリ"
+msgstr "シンボルライブラリテーブル"
 
 #. type: Target for macro image
 #: eeschema_main_top_menu.adoc:55
@@ -6016,7 +6016,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Global labels"
 msgid "Global Libraries"
-msgstr "グローバルラベル"
+msgstr "グローバルライブラリー"
 
 #. type: Plain text
 #: eeschema_main_top_menu.adoc:65
@@ -6029,7 +6029,7 @@ msgstr ""
 #. type: Plain text
 #: eeschema_main_top_menu.adoc:67
 msgid "Project Specific Libraries"
-msgstr ""
+msgstr "プロジェクト固有のライブラリ"
 
 #. type: Plain text
 #: eeschema_main_top_menu.adoc:71
@@ -6050,7 +6050,7 @@ msgstr ""
 #: eeschema_main_top_menu.adoc:75
 #, no-wrap
 msgid "Add a new library"
-msgstr ""
+msgstr "新しいラブラリの追加"
 
 #. type: Plain text
 #: eeschema_main_top_menu.adoc:81
