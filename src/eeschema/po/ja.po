@@ -182,7 +182,7 @@ msgid ""
 "Annotate only symbols that are currently not annotated.  Symbols that are "
 "not annotated will have a designator which ends with a '?' character."
 msgstr ""
-"アノテートサれていないシンボルだけアノテート。 \"?\" で終わるリファレンス（参"
+"アノテートされていないシンボルだけアノテート。 \"?\" で終わるリファレンス（参"
 "照番号）を持つシンボルが対象です。"
 
 #. type: Plain text
