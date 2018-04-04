@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GerbView-ja\n"
 "POT-Creation-Date: 2018-03-28 22:24+0900\n"
-"PO-Revision-Date: 2018-04-04 11:36+0900\n"
+"PO-Revision-Date: 2018-04-04 20:29+0900\n"
 "Last-Translator: murakou <murakou@jp3cyc.jp>\n"
 "Language-Team: kicad.jp <kicad@kicad.jp>\n"
 "Language: ja\n"
@@ -876,7 +876,7 @@ msgstr ""
 #. type: Plain text
 #: gerbview.adoc:289
 msgid "This behavior is deprecated and not available in the modern toolsets."
-msgstr "この動作は廃止予定とモダンなツールセットでは利用できません。"
+msgstr "この動作は廃止予定であり、モダン　ツールセットでは利用できません。"
 
 #. type: Title ==
 #: gerbview.adoc:290
