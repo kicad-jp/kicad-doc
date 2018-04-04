@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Pcbnew\n"
 "POT-Creation-Date: 2018-03-28 22:24+0900\n"
-"PO-Revision-Date: 2018-04-04 22:41+0900\n"
+"PO-Revision-Date: 2018-04-05 08:37+0900\n"
 "Last-Translator: murakou <murakou@jp3cyc.jp>\n"
 "Language-Team: kicad.jp <kicad@kicad.jp>\n"
 "Language: ja\n"
@@ -4118,7 +4118,9 @@ msgstr "以前にダウンロードした KiCad pretty ディレクトリ"
 #. type: Plain text
 #: pcbnew_installation.adoc:222
 msgid "Legacy KiCad _.mod_ files from older installations"
-msgstr "過去のインストールからの古い形式の KiCad _.mod_ ファイル"
+msgstr ""
+"過去にインストールした昔のバージョンから引き継いでいる古い形式の KiCad _."
+"mod_ ファイル"
 
 #. type: Plain text
 #: pcbnew_installation.adoc:223
