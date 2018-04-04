@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GerbView-ja\n"
 "POT-Creation-Date: 2018-03-28 22:24+0900\n"
-"PO-Revision-Date: 2018-04-03 23:16+0900\n"
+"PO-Revision-Date: 2018-04-04 11:36+0900\n"
 "Last-Translator: murakou <murakou@jp3cyc.jp>\n"
 "Language-Team: kicad.jp <kicad@kicad.jp>\n"
 "Language: ja\n"
@@ -631,6 +631,10 @@ msgid ""
 "Gerber file correctly.  If you notice such a problem, please notify the "
 "KiCad developers so that it can be fixed in a future release."
 msgstr ""
+"モダン　ツールセットがサポートしていないエラーが出た場合やガーバーファイルが"
+"正しくレンダリングされない場合のみ、レガシー　ツールセットの使用を推奨してい"
+"ます。これらの問題が発生した場合は、KiCadのデベロッパーまでお知らせください。"
+"今後のバージョンアップで修正することができます。"
 
 #. type: Plain text
 #: gerbview.adoc:217
@@ -679,7 +683,7 @@ msgstr "*現在のレイヤーをクリア* はアクティブ・レイヤーの
 #: gerbview.adoc:227
 #, no-wrap
 msgid "*Set Text Editor...* allows you to choose which program to show source with.\n"
-msgstr ""
+msgstr "*テキスト エディターを設定...* ソースファイルを開くテキストエディタを設定できます。\n"
 
 #. type: Title ==
 #: gerbview.adoc:228
@@ -872,7 +876,7 @@ msgstr ""
 #. type: Plain text
 #: gerbview.adoc:289
 msgid "This behavior is deprecated and not available in the modern toolsets."
-msgstr ""
+msgstr "この動作は廃止予定とモダンなツールセットでは利用できません。"
 
 #. type: Title ==
 #: gerbview.adoc:290
