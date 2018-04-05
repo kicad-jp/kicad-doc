@@ -5885,9 +5885,9 @@ msgstr "設定メニュー"
 
 #. type: Target for macro image
 #: eeschema_main_top_menu.adoc:40
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "images/en/menu_preferences.png"
-msgstr "images/en/menu_preferences.png"
+msgstr "images/ja/menu_preferences.png"
 
 #. type: delimited block |
 #: eeschema_main_top_menu.adoc:50
@@ -5921,9 +5921,9 @@ msgstr "シンボル ライブラリ テーブル"
 
 #. type: Target for macro image
 #: eeschema_main_top_menu.adoc:55
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "images/en/options_symbol_lib.png"
-msgstr "images/en/options_symbol_lib.png"
+msgstr "images/ja/options_symbol_lib.png"
 
 #. type: Plain text
 #: eeschema_main_top_menu.adoc:59
@@ -6058,9 +6058,9 @@ msgstr "表示設定"
 
 #. type: Target for macro image
 #: eeschema_main_top_menu.adoc:109
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "images/en/options_display.png"
-msgstr "images/en/options_display.png"
+msgstr "images/ja/options_display.png"
 
 #. type: delimited block |
 #: eeschema_main_top_menu.adoc:114
@@ -6163,9 +6163,9 @@ msgstr "編集設定"
 
 #. type: Target for macro image
 #: eeschema_main_top_menu.adoc:148
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "images/en/options_editing.png"
-msgstr "images/en/options_editing.png"
+msgstr "images/ja/options_editing.png"
 
 #. type: delimited block |
 #: eeschema_main_top_menu.adoc:154
@@ -6263,9 +6263,9 @@ msgstr "コントロール設定"
 
 #. type: Target for macro image
 #: eeschema_main_top_menu.adoc:188
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "images/en/options_controls.png"
-msgstr "images/en/options_controls.png"
+msgstr "images/ja/options_controls.png"
 
 #. type: Plain text
 #: eeschema_main_top_menu.adoc:192
@@ -6345,9 +6345,9 @@ msgstr "色設定"
 
 #. type: Target for macro image
 #: eeschema_main_top_menu.adoc:223
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "images/en/options_color.png"
-msgstr "images/en/options_color.png"
+msgstr "images/ja/options_color.png"
 
 #. type: Title =====
 #: eeschema_main_top_menu.adoc:226
@@ -6370,9 +6370,9 @@ msgstr "デフォルトのフィールド設定"
 
 #. type: Target for macro image
 #: eeschema_main_top_menu.adoc:231
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "images/en/options_default_fields.png"
-msgstr "images/en/options_default_fields.png"
+msgstr "images/ja/options_default_fields.png"
 
 #. type: Title ===
 #: eeschema_main_top_menu.adoc:234
