@@ -5801,9 +5801,9 @@ msgstr "ファイルメニュー"
 
 #. type: Target for macro image
 #: eeschema_main_top_menu.adoc:8
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "images/en/menu_file.png"
-msgstr "images/en/menu_file.png"
+msgstr "images/ja/menu_file.png"
 
 #. type: delimited block |
 #: eeschema_main_top_menu.adoc:13
@@ -6185,7 +6185,8 @@ msgid ""
 "a duplication is made by the _Insert_ key)\n"
 msgstr ""
 "| 繰り返し配置の水平間隔 |\n"
-"X 軸へ増加\n"
+"アイテムをコピーする際のX軸の増加値（通常は0）\n"
+"（シンボル、ラベル、配線などの要素を設置した後に Insert キーを押すと、直前に扱っていた要素をコピーできます。）\n"
 
 #. type: delimited block |
 #: eeschema_main_top_menu.adoc:162
@@ -6242,7 +6243,7 @@ msgid ""
 "|Always align autoplaced fields to the 50 mil grid |Extension of 'Automatically\n"
 "place symbol fields' option. If checked, fields are autoplaced using 50 mils\n"
 "grid, otherwise they are placed freely.\n"
-msgstr "| 常に 50 mil グリッドへ自動配置フィールドを整列 | 'シンボル フィールドを自動配置'の追加オプションです。チェックされた場合、フィールドは 50 mil のグリッドで配置されます。\n"
+msgstr "| 常に 50 mil グリッドへ自動配置フィールドを整列 | 'シンボル フィールドを自動配置'の追加オプションです。チェックされた場合、フィールドは 50 mil のグリッドで配置されます。そうでなければ、自由な場所に配置されます。\n"
 
 #. type: Title =====
 #: eeschema_main_top_menu.adoc:184
