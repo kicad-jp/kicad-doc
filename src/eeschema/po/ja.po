@@ -10808,7 +10808,8 @@ msgid ""
 "The tool creates a file which describe all connections in the entire "
 "hierarchy."
 msgstr ""
-"このツールは、階層全体（通常のオプション）の全ての接続の記述を作成します。"
+"このツールは、階層全体（通常のオプション）の全ての接続を記述するファイルを作"
+"成します。"
 
 #. type: Plain text
 #: eeschema_general_top_toolbar.adoc:47
@@ -10820,9 +10821,9 @@ msgid ""
 "path is internally associated with the local label."
 msgstr ""
 "マルチシートの階層において、ローカルラベルは自身が属するシート内だけで通用し"
-"ます。例えば、シート３のラベル TOTO は、（意図的にそれらを接続していない場"
-"合）シート５のラベル TOTO とは接続されません。これは、シート名がローカルラベ"
-"ルと関連付けられているからです。"
+"ます。例えば、シート 3 のラベル 1 は、（意図的にそれらを接続していない場合）"
+"シート 5 のラベル 1 とは接続されません。これは、シート名がローカルラベルと関"
+"連付けられているからです。"
 
 #. type: Plain text
 #: eeschema_general_top_toolbar.adoc:52
@@ -10906,8 +10907,8 @@ msgid ""
 "There is more information about creating netlists in <<create-a-netlist, "
 "Create a Netlist>> chapter."
 msgstr ""
-"<<create-a-netlist, ネットリストの作成Create a Netlist>> にネットリスト作成に"
-"関する詳しい情報があります。"
+"<<create-a-netlist, ネットリストの作成>> にネットリスト作成に関する詳しい情報"
+"があります。"
 
 #. type: Title ===
 #: eeschema_general_top_toolbar.adoc:83
@@ -11383,10 +11384,11 @@ msgid ""
 "of schematic capture software, because the netlist is the link with other "
 "electronic CAD software such as:"
 msgstr ""
-"いろいろな異なるネットリストのフォーマットが存在します。シンボルのリストと等"
-"電位リストが２つの別々のファイルであることもあります。回路図入力 (capture) ソ"
-"フトウェアにとって、このネットリストはなくてはならないものです。なぜなら、"
-"ネットリストは次のような他の電子系 CAD ソフトウェアを紐付けるからです。:"
+"いろいろな異なるネットリストのフォーマットが存在します。シンボルのリストと"
+"ネットのリストが２つの別々のファイルであることもあります。回路図入力 "
+"(capture) ソフトウェアにとって、このネットリストはなくてはならないものです。"
+"なぜなら、ネットリストは次のような他の電子系 CAD ソフトウェアを紐付けるからで"
+"す。:"
 
 #. type: Plain text
 #: eeschema_create_a_netlist.adoc:20
@@ -12394,8 +12396,8 @@ msgid ""
 "The field editor is called via the icon image:images/icons/text.png[icons/"
 "text.png]."
 msgstr ""
-"フィールド編集ツールは image:images/icons/text.png[icons/text_png] 実行できま"
-"す。"
+"フィールド編集ツールは image:images/icons/text.png[icons/text_png] アイコンか"
+"ら実行できます。"
 
 #. type: Plain text
 #: eeschema_libedit_components.adoc:108
