@@ -9360,7 +9360,7 @@ msgid ""
 "|Call CvPcb to assign footprints to symbols.\n"
 msgstr ""
 "|image:images/icons/cvpcb.png[run cvpcb icon]\n"
-"| CvPc\tbを呼び出し、シンボルとフットプリントの関連付ける\n"
+"| CvPcbを呼び出し、シンボルとフットプリントの関連付ける\n"
 
 #. type: delimited block |
 #: eeschema_generic_commands.adoc:277
