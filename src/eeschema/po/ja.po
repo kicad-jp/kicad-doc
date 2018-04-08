@@ -8387,7 +8387,7 @@ msgid ""
 "named VCC are connected all symbol invisible power pins named VCC only "
 "within the sheet they are placed."
 msgstr ""
-"非表示の電源ピンは、同一名であるなら互いに接続されているものと見做されます。"
+"非表示の電源ピンは、同一名であるなら互いに接続されているものと見なされます。"
 "このため、“非表示の電源ピン“ として宣言されている VCC という名前の電源ピン"
 "は、それが置かれているシートにある VCC という名前の全てのピンに接続されます。"
 
