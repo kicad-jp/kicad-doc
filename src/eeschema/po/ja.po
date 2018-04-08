@@ -8361,8 +8361,8 @@ msgid ""
 "label or label called \"TOTO\" in another sheet."
 msgstr ""
 "このため、同一シート内で階層ラベルの “TOTO” はローカルラベル “TOTO” に接続さ"
-"れていると見なされますが、別のシートの HLabel あるいは “TOTO” というラベルに"
-"は接続されません。"
+"れていると見なされますが、別のシートの 階層ラベルあるいは “TOTO” というラベル"
+"には接続されません。"
 
 #. type: Plain text
 #: eeschema_hierarchical_schematics.adoc:245
@@ -8370,8 +8370,8 @@ msgid ""
 "A hierarchical label is considered to be connected to the corresponding "
 "sheet pin symbol in the hierarchical symbol placed in the parent sheet."
 msgstr ""
-"しかし、階層ラベルはルートシートに配置された階層シンボル内の対応するシートの"
-"シンボルのピンに接続されていると見なされます。"
+"階層ラベルはルートシートに配置された階層シンボル内の対応するシートのシンボル"
+"のピンに接続されていると見なされます。"
 
 #. type: Title =====
 #: eeschema_hierarchical_schematics.adoc:247
@@ -8409,8 +8409,8 @@ msgid ""
 "schematic, it will have to be explicitly connected to an invisible power pin "
 "via a VCC power symbol."
 msgstr ""
-"この VCC ラベルを回路図全体の VCC 接続したいなら、VCC 電源ポートによって明示"
-"的に非表示電源ピンへ接続する必要があります。"
+"この VCC ラベルを回路図全体の VCC 接続したいなら、VCC 電源シンボルによって明"
+"示的に非表示電源ピンへ接続する必要があります。"
 
 #. type: Title ====
 #: eeschema_hierarchical_schematics.adoc:263
@@ -8445,7 +8445,7 @@ msgid ""
 msgstr ""
 "一例を示します。同じ回路図が２回使用されています（２つのインスタンス）。２つ"
 "のシートのファイル名が同じなので (“other_sheet.sch”) 、２つのシートは同じ回路"
-"図を共有します。しかし、シート名は固有でなければなりません。"
+"図を共有します。シート名は固有でなければなりません。"
 
 #. type: Named 'alt' AttributeList argument for macro 'image'
 #: eeschema_hierarchical_schematics.adoc:278
@@ -9197,7 +9197,7 @@ msgid ""
 "|image:images/icons/save.png[Save schematic icon]\n"
 "|Save complete schematic project.\n"
 msgstr ""
-"|image:images/icons/save.png[icons/save_png]\n"
+"|image:images/icons/save.png[Save schematic icon]\n"
 "|回路図プロジェクトの保存\n"
 
 #. type: delimited block |
@@ -9360,7 +9360,7 @@ msgid ""
 "|Call CvPcb to assign footprints to symbols.\n"
 msgstr ""
 "|image:images/icons/cvpcb.png[run cvpcb icon]\n"
-"| CvPvbを呼び出し、シンボルとフットプリントの関連付ける\n"
+"| CvPc\tbを呼び出し、シンボルとフットプリントの関連付ける\n"
 
 #. type: delimited block |
 #: eeschema_generic_commands.adoc:277
@@ -9562,7 +9562,7 @@ msgid ""
 msgstr ""
 "|image:images/icons/add_line_label.png[icons/add_line_label_png]\n"
 "| ローカルラベルを配置。 **同じシート内** でアイテムを接続します。\n"
-"異なるシート間で接続したい場合は、グローバルラベルを使用してください。\n"
+"異なるシート間で接続したい場合は、グローバルラベルか階層ラベルを使用してください。\n"
 
 #. type: delimited block |
 #: eeschema_generic_commands.adoc:348
@@ -9681,7 +9681,7 @@ msgid ""
 "|image:images/icons/grid.png[icons/grid]\n"
 "|Toggle grid visibility.\n"
 msgstr ""
-"|image:images/icons/grid.png[icons/png]\n"
+"|image:images/icons/grid.png[icons/grid]\n"
 "| グリッド表示を切替\n"
 
 #. type: delimited block |
@@ -10063,7 +10063,7 @@ msgid ""
 "source without a power flag symbol."
 msgstr ""
 "大抵の場合、PWR_FLAG は GND に接続されていなければなりません。なぜなら、レ"
-"ギュレータは電源出力として宣言された出力を持ちますが、グラウ ンドピンは電源出"
+"ギュレータは電源出力として宣言された出力を持ちますが、グラウンドピンは電源出"
 "力ではない（通常の属性は電源入力）ため、 PWR_FLAG に接続しなければ電源に接続"
 "されたことにはならないからです。"
 
